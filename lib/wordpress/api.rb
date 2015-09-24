@@ -19,7 +19,7 @@ module Wordpress
         include Taxonomy
         include Notifications
         include FreshlyPressed
-        include Media
+        include Attachments
       end
     end
 
